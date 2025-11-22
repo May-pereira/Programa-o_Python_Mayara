@@ -30,12 +30,12 @@ while True:
      
     nome = input("Digite um nome ou fim para sair")
 
-if nome == "fim":
-    break
+    if nome == "fim":
+        break
         
-if len(nome) >0 :
+    if len(nome) >0 :
         print(f"Primeira caracter de {nome} é {nome[0]}")
 
-else:
+    else:
         print("Nome vazio, não valido")
 
