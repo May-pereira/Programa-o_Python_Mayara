@@ -1,5 +1,6 @@
 import os
 os.system('cls')
+import math
 
 cont = 0
 acm = 0

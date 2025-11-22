@@ -2,6 +2,8 @@ import os
 import time
 os.system('cls')
 
+#Outro exemplo do exercicio anterior
+
 cont = 10
 
 while(cont>0):

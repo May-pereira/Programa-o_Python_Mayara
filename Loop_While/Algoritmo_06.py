@@ -2,6 +2,7 @@ import os
 os.system('cls')
 import time
 
+"""Entrar com vários números positivos e imprimira média dos números digitados."""
 cont = 0
 acm = 0
 
